@@ -7,7 +7,6 @@ from PIL import Image
 filelist = []
 
 def main():
-    # ADD A NEW COMMENT
     st.title("Pavement Distress Dashboard YOLOv5")
 
 def save_dir(exp_dir):
